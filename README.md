@@ -1,0 +1,1 @@
+##AMIMOTO WordPress Core Files
